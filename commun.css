@@ -1,0 +1,86 @@
+header {
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    height: 180px;
+    background-color:#384554;
+
+}
+header h1 {
+	color: white;
+	margin-left: 200px;
+	margin-top: 50px;
+	font-family: "Gotham Pro Medium";
+	font-size:30pt;
+	
+}
+header h2 {
+	color: white;
+	margin-left: 200px;
+	font-family: "source-sans-pro";
+	font-weight: lighter;
+
+	
+}
+.title {
+	color: rgba(124,143,165,1.00);
+	font-family: "open-sans";
+	font-weight: bold; 
+	
+	
+}
+.subtitle{
+		color: black;
+		font-size: 20px;
+		font-family: "source-sans-pro";
+		list-style-type: none;	
+}
+.contenu {
+		color: grey;
+		list-style: none;	
+		font-family:"source-sans-pro";
+}
+
+.ACHIV{
+	margin-left: 600px;
+	margin-top: 10px;
+}
+
+.EXP{
+	margin-top: 10px;
+	margin-right:500px;
+}
+
+.IMG2{
+	margin-top: 0px;
+}
+
+
+div {
+	margin-top: 200px;
+}
+div h3 {
+	margin-top: 100px;
+}
+
+.Barre{
+	margin: auto;
+}
+.SUBSUBTITLE{
+	font-size: 25px;
+	margin-top: 10px;
+	
+}
+
+.BOX{
+	float: left;
+}
+.colonne{
+		display: inline-block;
+}
+#B2 {
+	margin-left: 10px;
+}
+
+
